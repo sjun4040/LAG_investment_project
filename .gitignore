@@ -1,0 +1,38 @@
+.env
+*.env
+*.csv
+*.openapi연습
+Hello.ipynb
+lang_chain.ipynb
+prompt.ipynb
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
