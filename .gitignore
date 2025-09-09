@@ -1,10 +1,12 @@
 .env
 *.env
 *.csv
+*.json
 *.openapi연습
 Hello.ipynb
 lang_chain.ipynb
 prompt.ipynb
+langchain_caching.ipynb
 # Python
 *.pyc
 *.pyo
